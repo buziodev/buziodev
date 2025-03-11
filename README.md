@@ -18,15 +18,16 @@
 ![NLTK](https://img.shields.io/badge/-NLTK-333333?style=flat&logo=nltk)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333333?style=flat&logo=scikit-learn)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
-![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -43,8 +44,8 @@
 
 **Ferramentas de desenvolvimento**
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ-333333?style=flat&logo=intellij-idea)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
