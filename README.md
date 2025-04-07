@@ -59,6 +59,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-buziodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buziodev)](https://www.linkedin.com/in/buziodev)
+[![Linkedin](https://img.shields.io/badge/-buziodev-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/buziodev)](https://www.linkedin.com/in/buzio)
 [![Gmail Badge](https://img.shields.io/badge/-buziodev@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:buziodev@gmail.com)](mailto:buziodev@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/buziodev?label=follow&style=social)](https://github.com/buziodev)
